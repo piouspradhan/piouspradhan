@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working in Larsen & Toubro Infotech Limited (LTI). 
-- 🌱 I’m currently learning Machine Learning, 
+- 🌱 I’m currently learning MongoDB and NodeJS, 
 - 👯 I’m looking to collaborate in preparing for Data Analytics Role.
 - 🤔 I’m looking for help with **NLP**.
 - 💬 Ask me about **Data Structures and Algorithms**.
