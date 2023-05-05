@@ -2,14 +2,14 @@
 ### Hi there 👋 I'm Pious Pradhan,
 
 
-- 🔭 I’m currently working in Larsen & Toubro Infotech Limited (LTI). 
+- 🔭 I’m currently working in Larsen & Toubro Infotech Limited (LTIMindtree). 
 - 🌱 I’m currently learning MongoDB and NodeJS, 
 - 👯 I’m looking to collaborate in preparing for Data Analytics Role.
 - 🤔 I’m looking for help with **NLP**.
 - 💬 Ask me about **Data Structures and Algorithms**.
 - 📫 Reach me : piouspradhan04@gmail.com
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **Sh𝚎/Her**
-- ⚡ [My Resume](https://drive.google.com/file/d/1Ev4a66HsnuMLEb44toj3rkgycCqIeptz/view?usp=sharing)
+- ⚡ [My Resume](https://drive.google.com/file/d/1qh7ZRNUIAHuC8sffFfIaP8LdUKEkh-E-/view?usp=sharing)
 
 
 
