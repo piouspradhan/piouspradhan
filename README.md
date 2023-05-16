@@ -22,3 +22,8 @@
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piouspradhan&show_icons=true&locale=en&layout=compact" alt="piouspradhan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piouspradhan&show_icons=true&locale=en" alt="piouspradhan" /></p>
