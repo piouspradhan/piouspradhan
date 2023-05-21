@@ -23,7 +23,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piouspradhan&show_icons=true&locale=en&layout=compact" alt="piouspradhan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piouspradhan&show_icons=true&locale=en" alt="piouspradhan" /></p>
+#### GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=piouspradhan&show_icons=true&icon_color=D32F2F&theme=dark&title_color=D32F2F)  
+![Streak](https://streak-stats.demolab.com/?user=itsaky&theme=dark)
