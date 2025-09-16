@@ -1,14 +1,16 @@
 ![ViewCount](https://views.whatilearened.today/views/github/piouspradhan/piouspradhan.svg?cache=remove)
+
 ### Hi there 👋 I'm Pious Pradhan,
+🔭 Working at LTIMindtree | 🌱 Learning MongoDB, NodeJS & ML | 👯 Collaborating on Data Science & Analytics | 🤔 Exploring NLP | 💬 Ask me about DSA & Python | 📫 piouspradhan04@gmail.com
+ | 😄 She/Her
 
-
-- 🔭 I’m currently working in Larsen & Toubro Infotech Limited (LTIMindtree). 
-- 🌱 I’m currently learning MongoDB and NodeJS, 
-- 👯 I’m looking to collaborate in preparing for Data Analytics Role.
-- 🤔 I’m looking for help with **NLP**.
-- 💬 Ask me about **Data Structures and Algorithms**.
-- 📫 Reach me : piouspradhan04@gmail.com
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **Sh𝚎/Her**
+- ✨ Open to Data Science & Analytics opportunities
+- 📚 Learning MongoDB, NodeJS & Machine Learning
+- 💼 Ex-LTIMindtree & IBM
+- 🤖 Exploring NLP & AI projects
+- 💬 Ask me about Data Structures, Algorithms & Python
+- 📫 Reach me: piouspradhan04@gmail.com
+- 😄 She/Her
 - ⚡ [My Resume](https://drive.google.com/file/d/1qh7ZRNUIAHuC8sffFfIaP8LdUKEkh-E-/view?usp=sharing)
 
 
