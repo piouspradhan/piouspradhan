@@ -1,8 +1,6 @@
 ![ViewCount](https://views.whatilearened.today/views/github/piouspradhan/piouspradhan.svg?cache=remove)
 
 ### Hi there 👋 I'm Pious Pradhan,
-🔭 Working at LTIMindtree | 🌱 Learning MongoDB, NodeJS & ML | 👯 Collaborating on Data Science & Analytics | 🤔 Exploring NLP | 💬 Ask me about DSA & Python | 📫 piouspradhan04@gmail.com
- | 😄 She/Her
 
 - ✨ Open to Data Science & Analytics opportunities
 - 📚 Learning MongoDB, NodeJS & Machine Learning
