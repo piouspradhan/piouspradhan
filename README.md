@@ -24,5 +24,5 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 #### GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=piouspradhan&show_icons=true&icon_color=D32F2F&theme=dark&title_color=D32F2F)  
-![Streak](https://streak-stats.demolab.com/?user=itsaky&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=piouspradhan&show_icons=true&icon_color=D32F2F&theme=dark&title_color=D32F2F&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=piouspradhan&theme=dark&hide_border=true)
