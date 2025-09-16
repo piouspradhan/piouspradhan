@@ -29,6 +29,8 @@
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=piouspradhan&show_icons=true&icon_color=D32F2F&theme=dark&title_color=D32F2F&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=piouspradhan&theme=dark&hide_border=true" width="48%" />
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=piouspradhan&theme=dark&hide_border=true)
+
 </p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piouspradhan&layout=compact&theme=dark&hide_border=true)
