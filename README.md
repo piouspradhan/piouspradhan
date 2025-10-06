@@ -1,9 +1,8 @@
 # Hi, I’m Pious Pradhan 👋
 
 Welcome to my corner of GitHub!
-I'm a Machine Learning Engineer-in-training and Data Enthusiast with hands-on experience across backend engineering, data analytics, and ETL development. My journey spans roles at IBM and LTIMindtree, where I built data pipelines, automated workflows, and developed NodeJS-based applications that transformed raw data into actionable insights.
+I'm a Machine Learning Engineer-in-training and Data Enthusiast with hands-on experience across backend engineering, data analytics, and ETL development. My journey spans roles at IBM and LTIMindtree, where I built data pipelines, automated workflows, and developed NodeJS-based applications that transformed raw data into actionable insights. I’m passionate about bridging the gap between data engineering and machine learning — transforming complex datasets into intelligent, production-ready solutions. Now, as I continue expanding my expertise in Data Science, Deep Learning, and NLP, I’m focused on building models and systems that make a real-world impact.
 
-I’m passionate about bridging the gap between data engineering and machine learning — transforming complex datasets into intelligent, production-ready solutions. Now, as I continue expanding my expertise in Data Science, Deep Learning, and NLP, I’m focused on building models and systems that make a real-world impact.
 ---
 
 ## 🌱 I'm learning
